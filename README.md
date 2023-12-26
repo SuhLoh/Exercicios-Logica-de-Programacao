@@ -1,8 +1,9 @@
 # Exercicios-Logica-de-Programacao
 Exercícios do curso de Lógica de Programação do canal "Curso em Vídeo", do Professor Gustavo Guanabara. 
 
-Link das aulas do curso: https://www.youtube.com/watch?v=RDrfZ-7WE8c&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=3
+Uma pasta escrito Exercícios Lógica Programação
+Uma descrição falando que é o curso do guanabara e tals, colocar link da lista e do canal de resolução
+Dentro dessa pasta criar subpastas com o tema daqueles exercícios em específico 
+Em cada exercício tentar subir o enunciado dele também 
 
-Link da lista de exercícios: https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf
 
-Link da resolução dos exercícios: https://www.youtube.com/playlist?list=PLSh7PWXYqnPFa8f8F94kMcuc2E_dBEuDW
